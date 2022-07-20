@@ -27,3 +27,37 @@ body {
 .header--title{
     font-size: 1.25rem;
 }
+
+
+.body{
+    margin-top: 2rem;
+}
+.input{
+    display: flexbox;
+    padding-left: 12px;
+
+}
+.submit-btn{
+    
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    background-color: #7d13d3;
+    color: white;
+    border: none;
+    
+
+    margin: 0;
+    top: 50px;
+    left: 30px;
+
+    margin: 0;
+    position:absolute;
+  top: 185px;
+  left: 15%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+}
+
